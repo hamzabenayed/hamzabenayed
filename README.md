@@ -12,9 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/](https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/)
   
 - 📫 How to reach me **hamzabenayed2000@gmail.com**
-
-- 📄 Know about my experiences [[📄 View My Resume](https://github.com/hamzabenayed/Resume_Hamza_Ben_Ayed/blob/main/Resume_Ben_Ayed_Hamza.pdf)]
-
+  
 - ⚡ Fun fact **💻 I write code better than I write documentation... but who doesn't? 😆**
 
 <h3 align="left">Connect with me:</h3>
