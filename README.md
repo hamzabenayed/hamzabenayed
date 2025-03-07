@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Ben Ayed</h1>
 <h3 align="center">🚀 A Software Engineer specializing in Frontend and Full Stack Development from Tunisia</h3>
 
+<h2 align="center">
+ <abc>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzabenayed&label=Profile%20views&color=0e75b6&style=flat" alt="hamzabenayed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzabenayed" alt="hamzabenayed" /></a> </p>
