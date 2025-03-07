@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/)
 
-- 📄 Checkout [My Resume](Resume_Ben_Ayed_Hamza.pdf) (Download)
+- 📄 Checkout [My Resume](https://raw.githubusercontent.com/hamzabenayed/Resume_Hamza_Ben_Ayed/main/Resume_Ben_Ayed_Hamza.pdf) (Download)
   
 - 📫 How to reach me **hamzabenayed2000@gmail.com**
   
