@@ -14,8 +14,12 @@
 - 🔭 I’m currently  **Working as a freelance developer, building web & mobile applications.**
 
 - 👯 I’m seeking a **full-time software engineering role where I can apply my skills, contribute to impactful projects**
+  
+- 🤝 I’m looking to collaborate on **interesting projects or innovative ideas that lead to brilliant success!**
+  
+- 💬   Ask me about **anything tech related, I am happy to help**
 
-- 👨‍💻 All of my projects are available at [https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/](https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/)
   
 - 📫 How to reach me **hamzabenayed2000@gmail.com**
   
