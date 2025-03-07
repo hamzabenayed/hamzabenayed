@@ -20,6 +20,8 @@
 - 💬   Ask me about **anything tech related, I am happy to help**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://hamzabenayed.github.io/Portfolio---Hamza-Ben-Ayed/)
+
+- 📄 Checkout [My Resume](https://github.com/hamzabenayed/Resume_Hamza_Ben_Ayed/blob/main/Resume_Ben_Ayed_Hamza.pdf) (Download)
   
 - 📫 How to reach me **hamzabenayed2000@gmail.com**
   
