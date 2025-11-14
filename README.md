@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ben Ayed</h1>
-<h3 align="center">🚀 A Software Engineer specializing in Frontend and Full Stack Development from Tunisia</h3>
+<h3 align="center">🚀 A Software Engineer  from Tunisia</h3>
 
 <h2 align="center">
  <abc>
